@@ -1,0 +1,11 @@
+D:\Programmering\Datastrukturer och algoritmer\Inlämninguppgift1\Inlämninguppgift1\bin\Debug\netcoreapp2.0\Inlämninguppgift1.deps.json
+D:\Programmering\Datastrukturer och algoritmer\Inlämninguppgift1\Inlämninguppgift1\bin\Debug\netcoreapp2.0\Inlämninguppgift1.runtimeconfig.json
+D:\Programmering\Datastrukturer och algoritmer\Inlämninguppgift1\Inlämninguppgift1\bin\Debug\netcoreapp2.0\Inlämninguppgift1.runtimeconfig.dev.json
+D:\Programmering\Datastrukturer och algoritmer\Inlämninguppgift1\Inlämninguppgift1\bin\Debug\netcoreapp2.0\Inlämninguppgift1.dll
+D:\Programmering\Datastrukturer och algoritmer\Inlämninguppgift1\Inlämninguppgift1\bin\Debug\netcoreapp2.0\Inlämninguppgift1.pdb
+D:\Programmering\Datastrukturer och algoritmer\Inlämninguppgift1\Inlämninguppgift1\obj\Debug\netcoreapp2.0\Inlämninguppgift1.csprojResolveAssemblyReference.cache
+D:\Programmering\Datastrukturer och algoritmer\Inlämninguppgift1\Inlämninguppgift1\obj\Debug\netcoreapp2.0\Inlämninguppgift1.csproj.CoreCompileInputs.cache
+D:\Programmering\Datastrukturer och algoritmer\Inlämninguppgift1\Inlämninguppgift1\obj\Debug\netcoreapp2.0\Inlämninguppgift1.AssemblyInfoInputs.cache
+D:\Programmering\Datastrukturer och algoritmer\Inlämninguppgift1\Inlämninguppgift1\obj\Debug\netcoreapp2.0\Inlämninguppgift1.AssemblyInfo.cs
+D:\Programmering\Datastrukturer och algoritmer\Inlämninguppgift1\Inlämninguppgift1\obj\Debug\netcoreapp2.0\Inlämninguppgift1.dll
+D:\Programmering\Datastrukturer och algoritmer\Inlämninguppgift1\Inlämninguppgift1\obj\Debug\netcoreapp2.0\Inlämninguppgift1.pdb
